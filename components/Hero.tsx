@@ -11,7 +11,7 @@ function Hero({ }: Props) {
     });
   return (
       <div>
-          <p>{ text }</p>
+          <span>{text}</span>
 
       </div>
   )
